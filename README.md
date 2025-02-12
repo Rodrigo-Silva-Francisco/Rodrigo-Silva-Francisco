@@ -1,4 +1,4 @@
-## Bem-vindo ao meu perfil [<img src="https://models.readyplayer.me/67abb1cbc86870fbc076f07d.glb">]
+## Bem-vindo ao meu perfil
 
  <div>
    <a href="https://github.com/Rodrigo-Silva-Francisco">

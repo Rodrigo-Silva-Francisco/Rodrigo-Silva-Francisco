@@ -6,6 +6,8 @@
 
 Sou Rodrigo da Silva Francisco, tenho 30 anos e sou natural de São Paulo. Atualmente, estou em uma jornada para me tornar um desenvolvedor, cursando Análise e Desenvolvimento de Sistemas na Descomplica. Sou apaixonado por tecnologia e sempre busco me atualizar e expandir meu conhecimento. Para isso, estou aproveitando ao máximo o curso "Dev em Dobro" da Gêmeos, uma oportunidade fantástica para acelerar minha evolução como programador. Cada desafio que enfrento é uma chance de aprender algo novo e me aproximar do meu objetivo de me tornar um desenvolvedor completo.
 
+---
+
 ### 🤖 Linguagens e Tecnologias
 
 <img 

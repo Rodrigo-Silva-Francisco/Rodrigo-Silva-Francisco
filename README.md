@@ -35,25 +35,13 @@ Sou Rodrigo da Silva Francisco, tenho 30 anos e sou natural de São Paulo. Atual
 <br>
 
 
-
-
-
-
-
-
-
+### 📊 Estatísticas
 
  <div>
    <a href="https://github.com/Rodrigo-Silva-Francisco">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rodrigo-Silva-Francisco&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigo-Silva-Francisco&layout=compact&langs_count=10&theme=tokyonight"/>
 
-</div>
-    
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
  
 <br>

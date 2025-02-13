@@ -1,4 +1,9 @@
 ## 🚀 Bem-vindo(a) ao meu universo de código!
+# 👩🏻‍💻 LRodrigo Silva
+
+**`Desenvolvedor FullStack`**
+
+Meu nome é Rodrigo da Silva Francisco, tenho 30 anos e sou natural de São Paulo. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na DESCOMPLICA. Tenho uma grande paixão por tecnologia e, para me aprofundar ainda mais na área, estou também realizando o curso "Dev em Dobro", oferecido pela Gêmeos, que tem sido uma experiência incrível.
 
  <div>
    <a href="https://github.com/Rodrigo-Silva-Francisco">

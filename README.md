@@ -36,7 +36,7 @@ Sou Rodrigo da Silva Francisco, tenho 30 anos e sou natural de São Paulo. Atual
 />
 <br>
 
----
+
 
 ### 📊 Estatísticas
 
